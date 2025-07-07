@@ -1,5 +1,5 @@
 # www-compose
 перед запуском 
 ```
-touch db_data
+mkdir db_data
 ```
